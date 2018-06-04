@@ -1,0 +1,1181 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
+
+
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://goo.gl/vrZ3mg?" group-title="INFORMACOES",Lista ZOOM TOTAL TV
+rtmp://46.165.251.66/stream playpath=ZOOM_TOTAL_TV  swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf  pageUrl=http://www.liveflashplayer.net/embedplayer7/IGOR_RANGEL_LISTA2/1/500/400 Conn=S:OK –live
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/qnNoA0?" group-title="INFORMACOES",Atualizada 02/06/2018
+http://www.tv-msn.com/player/player.swf
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="?" group-title="INFORMACOES",=======================
+rtmp://31.204.151.253/live/master17              
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/uF4yNg?" group-title="INFORMACOES",GRUPO FACEBOOK
+https://www.facebook.com/igor.rangel.lista
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/uF4yNg?" group-title="INFORMACOES",IGOR LISTA KODI/XBMC/IPTV
+https://www.facebook.com/igor.rangel.lista
+
+#EXTINF:-1 tvg-id="" tvg-logo="?" group-title="INFORMACOES",=======================
+https://DIVi11                   
+
+
+
+#EXTINF:-1 tvg-id=""   tvg-logo="http://goo.gl/aPVM0M?" group-title="INFORMACOES",[COLOR yellow]EPG: http://bit.ly/igorepg2016[/COLOR]
+https://www.facebook.com/igor.rangel.lista
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="INFORMACOES",=======================
+https://DIVi2                   
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="Doações",AJUDE A MANTER A LISTA
+https://DIVi2                   
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="Doações",Conta Poupança Caixa
+https://DIVi333                   
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="Doações",Agencia: 0154
+https://DIVi2333333                   
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="Doações",Oeração: 13
+https://DIVi223233                  
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="Doações",Conta: 00071286-8
+https://DIVi223223                  
+
+#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="Doações",IGOR RANGEL S GONCALVES
+https://DIVi22322                  
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="TV Aberta HD",[COLOR yellow]            > > > TV ABERTA HD< < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="GloboSp.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD",GLOBO SP
+http://paraisotv.ddns.net/020/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloboRj.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD",GLOBO RJ
+http://paraisotv.ddns.net/021/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloboMg.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta SD",GLOBO MG
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/HxnjAysnmjcpFNlWHC7B/439.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="TV Aberta HD",SBT
+http://paraisotv.ddns.net/084/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV Aberta HD",BAND
+http://paraisotv.ddns.net/081/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV.igor"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="TV Aberta HD",REDE TV
+http://paraisotv.ddns.net/063/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Esportes HD",[COLOR yellow]            > > > ESPORTES HD < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes HD",SPORTV
+http://paraisotv.ddns.net/c008/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes HD",ESPN BRASIL
+http://paraisotv.ddns.net/c001/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes HD",FOX SPORTS
+http://paraisotv.ddns.net/036/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Esportes HD",ESPN
+http://paraisotv.ddns.net/c002/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Esportes HD",SPORTV 2
+http://paraisotv.ddns.net/c007/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/6ju0FK?SporTV-3.png?" group-title="Esportes HD",SPORTV 3 
+http://paraisotv.ddns.net/c016/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes HD",PREMIERE
+http://paraisotv.ddns.net/097/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="Esportes HD",COMBATE
+http://paraisotv.ddns.net/016/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes HD",FOX SPORTS 2
+http://paraisotv.ddns.net/c009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="Esportes HD",BAND SPORTS
+http://paraisotv.ddns.net/c015/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes HD",ESPORTE INTERATIVO 
+http://paraisotv.ddns.net/c004/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E Interativo BR.igor" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="Esportes HD",ESPORTE INTERATIVO BR
+http://paraisotv.ddns.net/048/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Premieres HD",[COLOR yellow]            > > > PREMIERES HD < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 1
+http://paraisotv.ddns.net/097/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 2
+http://paraisotv.ddns.net/099/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 3
+http://paraisotv.ddns.net/100/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 4
+http://paraisotv.ddns.net/110/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 5
+http://paraisotv.ddns.net/044/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 6
+http://paraisotv.ddns.net/042/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 7
+http://paraisotv.ddns.net/043/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 8.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD",PREMIERE 8
+http://paraisotv.ddns.net/041/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Filmes HD",[COLOR yellow]            > > > FILMES HD < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="TcPipoca.igor"  tvg-logo="http://goo.gl/5IKysn?" group-title="Filmes HD",TELECINE PIPOCA
+http://paraisotv.ddns.net/065/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcPremium.igor"  tvg-logo="http://goo.gl/XaOWO6?" group-title="Filmes HD",TELECINE PREMIUM
+http://paraisotv.ddns.net/069/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcAction.igor"  tvg-logo="http://goo.gl/P79aKf?" group-title="Filmes HD",TELECINE ACTION
+http://paraisotv.ddns.net/068/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcFun.igor"  tvg-logo="http://goo.gl/Dk6F7h?" group-title="Filmes HD",TELECINE FUN
+http://paraisotv.ddns.net/060/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcTouch.igor"  tvg-logo="http://goo.gl/AfJkib?" group-title="Filmes HD",TELECINE TOUCH
+http://paraisotv.ddns.net/102/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TcCult.igor"  tvg-logo="http://goo.gl/fLmSUL?" group-title="Filmes HD",TELECINE CULT
+http://paraisotv.ddns.net/055/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO.igor"  tvg-logo="http://goo.gl/N9ccs5?" group-title="Filmes HD",HBO
+http://paraisotv.ddns.net/053/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2.igor"  tvg-logo="http://goo.gl/yrDz67?" group-title="Filmes HD",HBO 2
+http://paraisotv.ddns.net/047/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family.igor"  tvg-logo="http://goo.gl/2BXhGr?" group-title="Filmes HD",HBO FAMILY
+http://paraisotv.ddns.net/088/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus.igor"  tvg-logo="http://goo.gl/ISXYSM?" group-title="Filmes HD",HBO PLUS
+http://paraisotv.ddns.net/037/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE.igor"  tvg-logo="http://goo.gl/pTRcv8?" group-title="Filmes HD",HBO SIGNATURE
+http://paraisotv.ddns.net/071/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/GY0nyM?" group-title="Filmes HD",SPACE
+http://paraisotv.ddns.net/029/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Megapix.igor" tvg-logo="http://goo.gl/qXR9CS?" group-title="Filmes HD",MEGAPIX
+http://paraisotv.ddns.net/033/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT.igor" tvg-logo="https://goo.gl/iwCiPM?" group-title="Filmes HD",PARAMOUNT CHANNEL
+http://paraisotv.ddns.net/004/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT.igor" tvg-logo="http://goo.gl/vUl6oy?" group-title="Filmes HD",TNT
+http://paraisotv.ddns.net/009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX.igor" tvg-logo="https://goo.gl/oDAihL?" group-title="Filmes HD",CINEMAX
+http://paraisotv.ddns.net/035/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX UP.igor" tvg-logo="http://goo.gl/Hbr506?" group-title="Filmes HD",MAX UP
+http://paraisotv.ddns.net/045/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX PRIME.igor" tvg-logo="http://goo.gl/JG4dUv?" group-title="Filmes HD",MAX PRIME
+http://paraisotv.ddns.net/092/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SUniversal.igor" tvg-logo="http://goo.gl/T8ICde?" group-title="Filmes HD",STUDIO
+http://paraisotv.ddns.net/096/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ttwrs" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Seriados HD",[COLOR yellow]            > > > SERIADOS HD < < <[/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:-1 tvg-id="TNT SERIES.igor" tvg-logo="https://goo.gl/2ZBWuk?" group-title="Seriados HD",TNT SERIES
+http://paraisotv.ddns.net/025/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq?" group-title="Seriados HD",FOX
+http://paraisotv.ddns.net/064/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 1.igor" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="Seriados HD",FOX PREMIUM 1
+http://paraisotv.ddns.net/018/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/RnqXjY?" group-title="Seriados HD",FX
+http://paraisotv.ddns.net/046/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBS.igor" tvg-logo="http://goo.gl/6Y4LUI?" group-title="Seriados HD",TBS
+http://paraisotv.ddns.net/038/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCH.igor" tvg-logo="http://goo.gl/K8V00r?" group-title="Seriados HD",UNIVERSAL CHANNEL
+http://paraisotv.ddns.net/067/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Warner.igor" tvg-logo="http://goo.gl/u2Eh6h?" group-title="Seriados HD",WARNER
+http://paraisotv.ddns.net/080/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central.igor" tvg-logo="http://goo.gl/7GDv0O?" group-title="Seriados HD",COMEDY CENTRAL
+http://paraisotv.ddns.net/030/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="FOX LIFE.igor" group-title="Seriados HD" tvg-logo="https://goo.gl/STGSLK",FOX LIFE
+http://paraisotv.ddns.net/083/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="SyFy.igor" group-title="Seriados HD" tvg-logo="http://goo.gl/VDyslJ",SYFY
+http://paraisotv.ddns.net/093/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony.igor" tvg-logo="http://goo.gl/omksVK?" group-title="Seriados HD",SONY
+http://paraisotv.ddns.net/003/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/U4atFv?" group-title="Seriados HD",AXN
+http://paraisotv.ddns.net/078/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC.igor" tvg-logo="https://goo.gl/TLM39Z?" group-title="Seriados HD",AMC
+http://paraisotv.ddns.net/007/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Variedades HD",[COLOR yellow]            > > > VARIEDADES HD < < <[/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+#EXTINF:-1 tvg-id="Multishow.igor"  tvg-logo="http://goo.gl/7LIjII?" group-title="Variedades HD",MULTISHOW
+http://paraisotv.ddns.net/022/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.igor"  tvg-logo="http://goo.gl/XQfSPS?" group-title="Variedades HD",MTV
+http://paraisotv.ddns.net/072/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva.igor"  tvg-logo="http://goo.gl/TWuTpO?" group-title="Variedades HD",VIVA
+http://paraisotv.ddns.net/079/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BIS.igor"  tvg-logo="https://goo.gl/09Wgmh?" group-title="Variedades HD",BIS
+http://paraisotv.ddns.net/061/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E! Entertainment.igor"  tvg-logo="https://goo.gl/n5bzdX?" group-title="Variedades HD",E! Entertainment
+http://paraisotv.ddns.net/070/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Infantil HD",[COLOR yellow]            > > > INFANTIL HD < < <[/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/oF6osu?" group-title="Infantil HD",CARTOON NETWORK
+http://paraisotv.ddns.net/027/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nick.igor" tvg-logo="http://goo.gl/welGCW?" group-title="Infantil HD",NICK
+http://paraisotv.ddns.net/077/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD.igor" tvg-logo="http://goo.gl/aWbwb4?" group-title="Infantil HD",DISNEY XD
+http://paraisotv.ddns.net/086/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://goo.gl/HYutK0?" group-title="Infantil HD",DISNEY JR
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/HxnjAysnmjcpFNlWHC7B/303.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Kids.igor" tvg-logo="http://goo.gl/eVuVEw?" group-title="Infantil HD",DISCOVERY KIDS
+http://paraisotv.ddns.net/c014/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gloob.igor" tvg-logo="http://goo.gl/aghxnu?" group-title="Infantil HD",GLOOB
+http://paraisotv.ddns.net/089/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aHrprS?" group-title="Infantil HD",DISNEY CHANNEL
+http://paraisotv.ddns.net/075/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr.igor" tvg-logo="http://goo.gl/gZkEi0?" group-title="Infantil HD",NICK JR
+http://paraisotv.ddns.net/052/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="https://goo.gl/kRtYPd?" group-title="Infantil HD",BOOMERANG
+http://paraisotv.ddns.net/091/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Documentários HD",[COLOR yellow]> > > DOCUMENTÁRIOS HD < < <[/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="Documentários HD",ANIMAL PLANET
+http://paraisotv.ddns.net/082/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/5rr2ab?" group-title="Documentários HD",THE HISTORY CHANNEL
+http://paraisotv.ddns.net/024/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo.igor" tvg-logo="http://goo.gl/B8yVJo?"  group-title="Documentários HD",DISCOVERY TURBO
+http://paraisotv.ddns.net/026/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="H2.igor" tvg-logo="https://goo.gl/dzX1M2?"  group-title="Documentários HD",H2
+http://paraisotv.ddns.net/054/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="TLC.igor?" group-title="Documentários HD" tvg-logo="https://goo.gl/46JvTg",TLC
+http://paraisotv.ddns.net/034/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Liv.ttwrs" tvg-logo="http://goo.gl/N5R6l8?"  group-title="Documentários HD",DISCOVERY ID
+http://paraisotv.ddns.net/056/myStream/playlist.m3u8
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="TV Aberta HD2",[COLOR yellow]            > > > TV ABERTA HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="GloboRj.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD2",GLOBO RJ
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/651.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="GloboSp.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD2",GLOBO SP
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/649.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta HD2",GLOBO NORDESTE
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/118.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="TV Aberta HD2",SBT HD
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/164.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV Aberta HD2",BAND
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/195.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Record.igor"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="TV Aberta HD2",RECORD
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/165.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Rede TV.igor"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="TV Aberta HD2",REDE TV
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/163.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Esportes HD2",[COLOR yellow]            > > > ESPORTES HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes HD2",SPORTV
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/106.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes HD2",ESPN BRASIL
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/633.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes HD2",FOX SPORTS
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/182.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN.igor" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="Esportes HD2",ESPN
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/632.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SporTV 2.igor"  tvg-logo="http://goo.gl/vtGyTX?SporTV-2.png?" group-title="Esportes HD2",SPORTV 2
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/162.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SporTV 3.igor"  tvg-logo="http://goo.gl/6ju0FK?SporTV-3.png?" group-title="Esportes HD2",SPORTV 3
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/161.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes HD2",PREMIERE
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/122.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Combate.igor"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="Esportes HD2",COMBATE
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/678.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes HD2",FOX SPORTS 2
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/183.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Band Sports.igor"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="Esportes HD2",BAND SPORTS
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/127.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes HD2",ESPORTE INTERATIVO
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/103.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo 2.igor" tvg-logo="https://goo.gl/vAiaCs?Esporte_Interativo_2.png?" group-title="Esportes HD2",ESPORTE INTERATIVO 2
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/187.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo BR.igor" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="Esportes HD2",ESPORTE INTERATIVO BR
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/188.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN+.igor"  tvg-logo="http://goo.gl/HBo8jM?ESPN+.png?" group-title="Esportes HD2",ESPN+
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/634.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Premieres HD2",[COLOR yellow]            > > > PREMIERES HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="PREMIERE 1.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD2",PREMIERE 1
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/122.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 2.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD2",PREMIERE 2
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/123.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 3.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD2",PREMIERE 3
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/168.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 4.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD2",PREMIERE 4
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/167.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 5.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD2",PREMIERE 5
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/166.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 6.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD2",PREMIERE 6
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/135.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="PREMIERE 7.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Premieres HD2",PREMIERE 7
+http://23.237.22.190:8080/live/CanaisHDSmtpturbo/UUcjMO5zL5m6UiRXADUI/136.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Filmes HD2",[COLOR yellow]            > > > FILMES HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="HBO.igor"  tvg-logo="http://goo.gl/N9ccs5?" group-title="Filmes HD2",HBO
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/642.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="HBO 2.igor"  tvg-logo="http://goo.gl/yrDz67?" group-title="Filmes HD2",HBO 2
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/644.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="HBO Family.igor"  tvg-logo="http://goo.gl/2BXhGr?" group-title="Filmes HD2",HBO FAMILY
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/643.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="HBO Plus.igor"  tvg-logo="http://goo.gl/ISXYSM?" group-title="Filmes HD2",HBO PLUS
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/641.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE.igor"  tvg-logo="http://goo.gl/pTRcv8?" group-title="Filmes HD2",HBO SIGNATURE
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/640.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TNT.igor" tvg-logo="http://goo.gl/vUl6oy?" group-title="Filmes HD2",TNT
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/596.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="CINEMAX.igor" tvg-logo="https://goo.gl/oDAihL?" group-title="Filmes HD2",CINEMAX
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/679.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Canal Brasil.igor" tvg-logo="http://goo.gl/zddqpQ?" group-title="Filmes HD2",CANAL BRASIL
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/682.m3u8?|User-Agent=iPhone
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="ttwrs" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Seriados HD2",[COLOR yellow]            > > > SERIADOS HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="TNT SERIES.igor" tvg-logo="https://goo.gl/2ZBWuk?" group-title="Seriados HD2",TNT SERIES
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/595.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq?" group-title="Seriados HD2",FOX
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/660.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 1.igor" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="Seriados HD2",FOX PREMIUM 1
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/658.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 2.igor" tvg-logo="https://goo.gl/RUDViH?" group-title="Seriados HD2",FOX PREMIUM 2
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/657.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/RnqXjY?" group-title="Seriados HD2",FX
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/654.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ID.igor" tvg-logo="https://goo.gl/al1XQO?" group-title="Seriados HD2",INVESTIGAÇÃO DISCOVERY
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/638.m3u8?|User-Agent=iPhone
+
+#EXTINF:0 tvg-id="FOX LIFE.igor" group-title="Seriados HD2" tvg-logo="https://goo.gl/STGSLK",FOX LIFE
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/659.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Sony.igor" tvg-logo="http://goo.gl/omksVK?" group-title="Seriados HD2",SONY
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/681.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/U4atFv?" group-title="Seriados HD2",AXN
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/688.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="AMC.igor" tvg-logo="https://goo.gl/TLM39Z?" group-title="Seriados HD2",AMC
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/690.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Variedades HD2",[COLOR yellow]            > > > VARIEDADES HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+#EXTINF:-1 tvg-id="GNT.igor"  tvg-logo="http://goo.gl/YyHiwq?" group-title="Variedades HD2",GNT
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/646.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Viva.igor"  tvg-logo="http://goo.gl/TWuTpO?" group-title="Variedades HD2",VIVA
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/590.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="BIS.igor"  tvg-logo="https://goo.gl/09Wgmh?" group-title="Variedades HD2",BIS
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/684.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="OFF.igor"  tvg-logo="https://goo.gl/B5pwdb?" group-title="Variedades HD2",OFF
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/624.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Home.igor"  tvg-logo="http://goo.gl/ewCTK1?" group-title="Variedades HD2",HOME & HEALTH
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/676.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOOD NETWORK.igor"  tvg-logo="https://goo.gl/sJijSQ?" group-title="Variedades HD2",FOOD NETWORK
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/661.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="+GLOBOSAT.igor"  tvg-logo="https://goo.gl/cfDftL?" group-title="Variedades HD2",+GLOBOSAT
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/648.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E! Entertainment.igor"  tvg-logo="https://goo.gl/n5bzdX?" group-title="Variedades HD2",E! Entertainment
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/669.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Infantil HD2",[COLOR yellow]            > > > INFANTIL HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/oF6osu?" group-title="Infantil HD2",CARTOON NETWORK
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/680.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/aHrprS?" group-title="Infantil HD2",DISNEY CHANNEL
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/671.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://goo.gl/HYutK0?" group-title="Infantil HD2",DISNEY JR
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/675.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Kids.igor" tvg-logo="http://goo.gl/eVuVEw?" group-title="Infantil HD2",DISCOVERY KIDS
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/674.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Gloob.igor" tvg-logo="http://goo.gl/aghxnu?" group-title="Infantil HD2",GLOOB
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/647.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="https://goo.gl/kRtYPd?" group-title="Infantil HD2",BOOMERANG
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/683.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Tooncast.igor" tvg-logo="http://goo.gl/9ytu52?" group-title="Infantil HD2",TOONCAST
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/594.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Documentários HD2",[COLOR yellow]> > > DOCUMENTÁRIOS HD2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="Documentários HD2",ANIMAL PLANET
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/689.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery.igor" tvg-logo="http://goo.gl/5ObfPV?"  group-title="Documentários HD2",DISCOVERY CHANNEL
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/677.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nat Geo Wild.igor" tvg-logo="http://goo.gl/t0czad?"  group-title="Documentários HD2",NAT GEO WILD
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/629.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/5rr2ab?" group-title="Documentários HD2",THE HISTORY CHANNEL
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/639.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Turbo.igor" tvg-logo="http://goo.gl/B8yVJo?"  group-title="Documentários HD2",DISCOVERY TURBO
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/672.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="H2.igor" tvg-logo="https://goo.gl/dzX1M2?"  group-title="Documentários HD2",H2
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/645.m3u8?|User-Agent=iPhone
+
+#EXTINF:0 tvg-id="TLC.igor?" group-title="Documentários HD2" tvg-logo="https://goo.gl/46JvTg",TLC
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/597.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Liv.ttwrs" tvg-logo="http://goo.gl/N5R6l8?"  group-title="Documentários HD2",DISCOVERY ID
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/638.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Theater.igor" tvg-logo="http://goo.gl/PQFZHJ?"  group-title="Documentários HD2",Discovery HD THEATER
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/673.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Jornalismo HD2",[COLOR yellow]            > > > JORNALISMO HD2 < < <[/COLOR]
+http://ignorame
+
+#EXTINF:-1 tvg-id="Globo News.igor" tvg-logo="http://goo.gl/QCdPkl?" group-title="Jornalismo HD2",GLOBO NEWS
+http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/653.m3u8?|User-Agent=iPhone
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="SERIES 24HRS",[COLOR yellow]> > > SERIES 24HRS < < <[/COLOR]
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="big-bang.png" tvg-logo="http://goo.gl/CM3jns?" group-title="SERIES 24HRS",BIG BAMG
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="breaking-bad.png" tvg-logo="http://goo.gl/TH6lNu?" group-title="SERIES 24HRS",BREAKING BAD
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="CHUCK.png" tvg-logo="http://goo.gl/MrqeZY?" group-title="SERIES 24HRS",CHUCK
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="CRIMINAL-MINDS.png" tvg-logo="http://goo.gl/vsxDUU?" group-title="SERIES 24HRS",CRIMINAL MINDS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="CSI.png" tvg-logo="http://goo.gl/5XT0Wg?" group-title="SERIES 24HRS",CSI
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Friends.png" tvg-logo="http://goo.gl/fnk2qZ?" group-title="SERIES 24HRS",FRIENDS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Todo-Mundo-Odeia-o-Chris.png" tvg-logo="http://goo.gl/5W6ClY?" group-title="SERIES 24HRS",TD MUNDO ODEIA O CRIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Glee.png" tvg-logo="http://goo.gl/OcR6dy?" group-title="SERIES 24HRS",GLEE
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Gossip-Girl.png" tvg-logo="http://goo.gl/d94oJv?" group-title="SERIES 24HRS",GOSSIP GIRL
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="HEROES.png" tvg-logo="http://goo.gl/eYHSMH?" group-title="SERIES 24HRS",HEROS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Lost.png" tvg-logo="http://goo.gl/D4g3lg?" group-title="SERIES 24HRS",LOST
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Prison-Break.png" tvg-logo="http://goo.gl/oQIjLD?" group-title="SERIES 24HRS",PRISON BREAK
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="SMALLVILLE.png" tvg-logo="http://goo.gl/hjqlZN?" group-title="SERIES 24HRS",SMALLVILLE
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Supernatural.png" tvg-logo="http://goo.gl/k3cV1f?" group-title="SERIES 24HRS",SOBRENATURAL 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Dois-Homens-e-Meio.png" tvg-logo="http://goo.gl/Xa6ZY1?" group-title="SERIES 24HRS",TWO AND A HALF MEN
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="DESENHOS 24HRS",[COLOR yellow]> > > DESENHOS 24HRS < < <[/COLOR]
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Batman.png" tvg-logo="http://goo.gl/WS4iYd?" group-title="DESENHOS 24HRS",BATMAN
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Ben-10.png" tvg-logo="http://goo.gl/C5i8P8?" group-title="DESENHOS 24HRS",BEM 10
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Bob-Esponja.png" tvg-logo="http://goo.gl/buWyMn?" group-title="DESENHOS 24HRS",BOB ESPONJA 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Caverna-do-Dragao.png" tvg-logo="http://goo.gl/9BFXFE?" group-title="DESENHOS 24HRS",CAVERNA DO DRAGAO
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Cavaleiros-do-Zodiaco.png" tvg-logo="http://goo.gl/bzqfvF?" group-title="DESENHOS 24HRS",OS CAVALEIROS DO ZODIACO
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Uma-Familia-da-Pesada.png" tvg-logo="http://goo.gl/cDLJaO?" group-title="DESENHOS 24HRS",UMA FAMILIA DA PESADA
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Chaves.png" tvg-logo="http://goo.gl/LNwXaV?" group-title="DESENHOS 24HRS",CHAVES
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="CHAPOLIN.jpg" tvg-logo="http://goo.gl/UhQF0x?" group-title="DESENHOS 24HRS",CHAPOLIN
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Simpsons.png" tvg-logo="http://goo.gl/q2Y3bG?" group-title="DESENHOS 24HRS",SIMPSONS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Dragon-Ball-Z.png" tvg-logo="http://goo.gl/TVjjbc?" group-title="DESENHOS 24HRS",DRAGON BALL Z
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Doug.png" tvg-logo="http://goo.gl/NaH8ck?" group-title="DESENHOS 24HRS",DOUG
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Drake-Josh.png" tvg-logo="http://goo.gl/KOtlWl?" group-title="DESENHOS 24HRS",DRAKE E JOSH
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Futurama.png" tvg-logo="http://goo.gl/VeCxGn?" group-title="DESENHOS 24HRS",FUTURAMA
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Galinha-Pintadinha.png" tvg-logo="http://goo.gl/W2jeOX?" group-title="DESENHOS 24HRS",GALINHA PINTADINHA 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="iCarly.png" tvg-logo="http://goo.gl/kQWCwf?" group-title="DESENHOS 24HRS",ICARLY
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Jackie.jpg" tvg-logo="http://goo.gl/BH4eWQ?" group-title="DESENHOS 24HRS",JACKIE CHAN
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Kenan-Kel.png" tvg-logo="http://goo.gl/MBtpif?" group-title="DESENHOS 24HRS",KENAN E KEL
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Jaspion.jpg" tvg-logo="http://goo.gl/DXq4DN?" group-title="DESENHOS 24HRS",JASPION
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Um-Maluco-no-Pedaco.png" tvg-logo="http://goo.gl/7UCy8x?" group-title="DESENHOS 24HRS",MALUCO NO PEDAÇO
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="maskara.jpg" tvg-logo="http://goo.gl/RWeQFt?" group-title="DESENHOS 24HRS",MASKARA
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Naruto.png" tvg-logo="http://goo.gl/FmLOFI?" group-title="DESENHOS 24HRS",NARUTO
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Padrinhos-Magicos.png" tvg-logo="http://goo.gl/u9tS0n?" group-title="DESENHOS 24HRS",PADRINHOS MAGICOS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Eu-a-Patroa-e-as-Criancas.png" tvg-logo="http://goo.gl/kuekyx?" group-title="DESENHOS 24HRS",EU A PATROA E AS CRIANÇAS 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Pica-Pau.png" tvg-logo="http://goo.gl/l56Ajm?" group-title="DESENHOS 24HRS",PICA PAU 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Os-Pinguins.png" tvg-logo="http://goo.gl/ZrdLnc?" group-title="DESENHOS 24HRS",OS PINGUINS DE MADAGASTAR 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Scooby-Doo.png" tvg-logo="http://goo.gl/6mCK9N?" group-title="DESENHOS 24HRS",SCOOBYDOO
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="South-Park.png" tvg-logo="http://goo.gl/KHycl8?" group-title="DESENHOS 24HRS",SOUTH PARK
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Tom-e-Jerry.png" tvg-logo="http://goo.gl/sKa1xX?" group-title="DESENHOS 24HRS",TOM E JERRY
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="X-Men.png" tvg-logo="http://goo.gl/1dsz17?" group-title="DESENHOS 24HRS",X MEN
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Yu-Gi-Oh-.png" tvg-logo="http://goo.gl/wDkCnt?" group-title="DESENHOS 24HRS",Yu-Gi-Oh !
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Bobby.jpg" tvg-logo="http://goo.gl/XGqDNn?" group-title="DESENHOS 24HRS",O FANTASTICO MUNDO DE BOBBY
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Dinousaro.jpg" tvg-logo="http://goo.gl/CBoSv6?" group-title="DESENHOS 24HRS",A FAMILIA DINOSSAURO
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Castelo.jpg" tvg-logo="http://goo.gl/Kt6dAZ?" group-title="DESENHOS 24HRS",CASTELO RA-TIM-BUM
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Duck.jpg" tvg-logo="http://goo.gl/CF9X1w?" group-title="DESENHOS 24HRS",DUCKTALES
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Flingstons.png" tvg-logo="http://goo.gl/nu2m2y?" group-title="DESENHOS 24HRS",FLINTSTONES
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Liga-da-Justica.jpg" tvg-logo="http://goo.gl/0WSSSE?" group-title="DESENHOS 24HRS",LIGA DA JUSTICA
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Thuunder.jpg" tvg-logo="http://goo.gl/yfYnCI?" group-title="DESENHOS 24HRS",THUNDERCATS
+
+
+
+
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#RÁDIO
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,[COLOR yellow]#####RADIO####[/COLOR]
+http://0.0.0.0:123455
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Paiquer fm.png" tvg-name="Sound Pop"radio=true,SOUND POP
+http://s4.voscast.com:7746/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="Itatiaia"radio=true,ITATIAIA (BH)
+http://r_itatiaia_hls-lh.akamaihd.net/i/radio_itatiaia@103071/index_hls_a-p.m3u8?sd=10&rebase=on?IGOR_RANGEL
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="Itatiaia"radio=true,ITATIAIA
+http://aovivo.radios.com.br:8110/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s150642q.png" tvg-name=""radio=true,TRANSAMERICA (São Paulo)
+http://str.telium.com.br:8000/sp_pop
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s150758q.png" tvg-name=""radio=true,JOVEN PAM (Campinas)
+http://paineldj2.com.br:8200/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s129723q.png" tvg-name=""radio=true,JOVEN PAM (BH)
+http://sh1.upx.com.br:8036/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s150758q.png" tvg-name=""radio=true,JOVEN PAM (Uberaba)
+http://sc1.crossdigital.com.br:8190/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/.png" tvg-name=""radio=true,102.9 (BH)
+rtmp://stream.izap.com.br:80/live/ playpath=1029fm.stream  swfUrl=http://fm1029.com.br/plus/scripts/jwplayer/jwplayer.flash.swf  pageUrl=http://fm1029.com.br/plus/frplayer.php
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/.png" tvg-name=""radio=true,KISS FM
+http://10443.live.streamtheworld.com/SAOPAULO1021AAC?pname=StandardPlayerV4&pversion=4.10.3-002&tdsdk=js-2.6&banners=300x250%2Cswf%2Cvpaid&uuid=89567c2d-53ec-4f3c-b143-3944133586cd
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (SP)
+http://tuneinmix.crossradio.com.br:8008/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (RJ)
+rtmp://evp.mm.uol.com.br/mixriofm/_definst_ playpath=mixriofm  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Mix-102.1-FM/13958
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Jao Pessoa)
+http://174.37.99.199:8318/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Belem)
+http://174.142.176.108:9252/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Campinas)
+http://afiliadamix1.crossradio.com.br:9008/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s152230q.png" tvg-name=""radio=true,MIX FM (Curitiba)
+http://vilhavelhafm.dnip.com.br:8060/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="ESTADÃO ESPN FM"radio=true,RADIO ESTADÃO ESPN FM
+rtmp://cp203336.live.edgefcs.net/live/ playpath=espnibra-radio-1@21764  swfUrl=http://d3bwsr3zpy54hy.cloudfront.net/201501191057/js/lib/swf/player-AS3.swf?IGOR_RANGEL  pageUrl=http://tunein.com/radio/Radio-ESPN-(Brasil)-s188767/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s175902q.png" tvg-name="BH FM "radio=true,TUPI (Brasilia)
+http://173.193.202.68:8930/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s175902q.png" tvg-name="BH FM "radio=true,TUPI
+rtmp://cdn.rj.assocrj.com.br:80/live playpath=tupi-estudio-audio06  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Super-Radio-Tupi-FM-96.5-AM-1280/14215
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (BH)
+http://mob.sgr.globo.com:9100/icbnbh
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (RIO)
+rtmp://media.sgr.globo.com:1935/CBNRD/ playpath=cbnrj.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-CBN-Rio-860-AM/8819
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (SÃO PAULO) 
+rtmp://media.sgr.globo.com:1935/CBNRD/ playpath=cbnsp.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGE  pageUrl=http://www.radios.com.br/aovivo/Radio-CBN-Sao-Paulo-780-AM-90.5-FM/8816
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s119918q.png" tvg-name=""radio=true,CBN (Goiania)
+http://177.124.129.202:8156/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s165745q.png" tvg-name=""radio=true,CBN (Recife)
+http://sh2.upx.com.br:8012/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144612q.png" tvg-name=""radio=true,CBN (Salvador)
+http://sh1.upx.com.br:8100/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s16186q.png" tvg-name=""radio=true,CBN (Brasilia) 
+http://mob.sgr.globo.com:9100/icbnbsb
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s8946q.png" tvg-name=""radio=true,CBN (Campinas) 
+http://sh1.upx.com.br:8030/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144137q.png" tvg-name=""radio=true,Radio Globo (Sao Paulo) 
+http://mob.sgr.globo.com:9000/igamsp
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="http://cdn-radiotime-logos.tunein.com/s144137q.png" tvg-name=""radio=true,Radio Globo (BH) 
+http://mob.sgr.globo.com:9000/igambh
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s144137q.png"radio=true,Radio Globo (Rio) 
+http://mob.sgr.globo.com:9000/igamrj
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s100249q.png"radio=true,Radio Globo (Natal) 
+http://06.stmip.net:7780/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s98830q.png"radio=true,Radio Bandeirantes (Canpinas) 
+http://167.114.103.39:8470/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s172107q.png"radio=true,Radio Bandeirantes (Florianopolis) 
+http://streaming01.maxcast.com.br:8234/live
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s184925q.png"radio=true,Radio Bandeirantes (Bauru) 
+http://174.37.99.199:8276/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s184925q.png"radio=true,Radio Bandeirantes (SP)  
+rtmp://evp.mm.uol.com.br:1935/radioam_sp playpath=radioam_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bandeirantes-840-AM-90.9-FM/10410
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name="http://cdn-radiotime-logos.tunein.com/s184925q.png"radio=true,Radio Bandeirantes (RJ) 
+rtmp://reclamaradianta.flashplayer.acessaradios.com.br:443/reclamaradianta playpath=reclamaradianta  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bandeirantes-Rio-1360-AM/23014
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,RADIO GRENAL
+http://108.168.175.149:10115/stream
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,ELDORADO 1300
+http://radioeldorado.dyndns.org:15000/;stream.nsv
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,RADIO POP ROCK
+http://listen.rockradio.com/public3/poprock.pls
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="BH FM "radio=true,BH FM 
+rtmp://media.sgr.globo.com/MusicalRD/ playpath=bhfm.sdp  swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf?IGOR_RANGEL  pageUrl=http://www.radiosaovivo.net/radios-de-minas-gerais/#bh-fm-102-belo-horizonte
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND FM SP
+rtmp://evp.mm.uol.com.br/bandfm_sp/_definst_ playpath=bandfm_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Band-FM-96.1-FM/10358
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND NEWS RJ
+rtmp://evp.mm.uol.com.br/bnewsfm_rj/_definst_ playpath=bnewsfm_rj.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-BandNews-94.9-FM/10399
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND NEWS SP
+rtmp://evp.mm.uol.com.br/bnewsfm_sp/_definst_/ playpath=bnewsfm_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bandnews-96.9-FM/24477
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,BAND NEWS MG
+rtmp://evp.mm.uol.com.br/bnewsfm_bh/_definst_ playpath=bnewsfm_bh  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-BandNews-89.5-FM/10402
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="BH FM "radio=true,BRADESCO ESPORTES SP
+rtmp://evp.mm.uol.com.br/bradescoespfm_sp/_definst_ playpath=bradescoespfm_sp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bradesco-Esportes-94.1-FM/20552
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Itatiaia.png" tvg-name="BH FM "radio=true,BRADESCO ESPORTES RJ
+rtmp://evp.mm.uol.com.br/bradescoespfm_rj/_definst_ playpath=bradescoespfm_rj.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Bradesco-Esportes-91.1-FM/18882
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="" tvg-name=""radio=true,MEGA NET
+rtmp://evp.mm.uol.com.br/jovempanfm playpath=jovempanfm.sdp  swfUrl=http://www.radios.com.br/players/streaming/libs/flowplayer-flash/flowplayer-3.2.16.swf?IGOR_RANGEL  pageUrl=http://www.radios.com.br/aovivo/Radio-Jovempan-100.9-FM/8829
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="RÁDIO CIDADE.png" tvg-name="RÁDIO CIDADE"radio=true,RÁDIO CIDADE
+rtmp://flash.midiaip.com.br:1935/cidade.stream playpath=shoutcast:default.stream swfUrl=http://www.midiaip.com.br/radios/px100b2.swf?canal=cidade.stream&autoplay=1 pageUrl=http://radiocidade.uvv.br/player.html
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="TRIBUNA FM.png" tvg-name="TRIBUNA FM"radio=true,TRIBUNA FM
+rtmp://flash2.midiaip.com.br/tribunafmvix.stream/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#tribuna-fm-99_1-vitoria
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="LITORAL FM.png" tvg-name="LITORAL FM"radio=true,LITORAL FM
+rtmp://10045b.ls.azioncdn.net/0045b/ playpath=a/access_options/rtmp-live/lfmv.sdp swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#radio-litoral-fm-102_3-vitoria
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="FM SUPER-vitória.png" tvg-name="FM SUPER"radio=true,FM SUPER VITORIA
+rtmp://flash2.midiaip.com.br/supergv.stream/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#fm-super-94_5-vitoria
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="FM SUPER-afonso cláudio.png" tvg-name="FM SUPER"radio=true,FM SUPER
+rtmp://flash2.midiaip.com.br/supergv.stream/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#fm-super-101_9-afonso-claudio
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="NOVA ONDA.png" tvg-name="NOVA ONDA"radio=true,NOVA ONDA
+rtmp://midiahd.ipcastdigital.com.br:1935/nondanv/ playpath=default.stream swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#nova-onda-fm-99_3-nova-venecia
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="BAND FM-são paulo.png" tvg-name="BAND FM"radio=true,BAND FM
+rtmp://stream5.euroti.com.br/Stream playpath=http://euroticast5.euroti.com.br:8256 swfUrl=http://bandfm967.herokuapp.com/playeraac.swf pageUrl=http://bandfm967.herokuapp.com/player/
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="MIX.png" tvg-name="MIX"radio=true,MIX
+rtmp://173.193.156.98/mix/ playpath=http://173.193.156.98:8000 swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf pageUrl=http://www.radiosaovivo.net/radios-do-espirito-santo/#radio-mix-106_9-fm-vitori
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,ALVORADA LONDRINA
+http://a5.fabricahost.com.br:1935/alvoradalondrina/stream/playlist.m3u8
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,RADIO ATLANTA (RS)
+rtmp://42747t.lp.azioncdn.net:1935/2747t/ playpath=a/mp4:access_options/rtmp-live/atl_poa.sdp  swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf?igor_rangel  pageUrl=http://www.radiosaovivo.net/atlantida/
+
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,JOVEN PAM (RS)
+rtmp://174.37.99.198/flash986 playpath=jpfm  swfUrl=http://www.redepampa.com.br/novo/radiosonline/jovempannovo.swfIGOR_RANGEL  pageUrl=http://www.redepampa.com.br/novo/radiosonline/jovempan.php
+
+#EXTINF:0 $ExtFilter="RADIO?" group-title="RADIO" tvg-logo="Alvorada am-Londrina.png" tvg-name="Folha fm-Londrina"radio=true,Riav
+mms://189.3.186.70/am
+
+#EXTINF:0 $ExtFilter="RÁDIO?" group-title="RADIO" tvg-logo="Alvorada  tvg-logo="https://goo.gl/?_e_pi_=7,PAGE_ID10,9407462012" tvg-name="Folha fm-Londrina"radio=true,MIX (RS)
+rtmp://ls.azioncdn.net:1935/0041b/a/access_options/rtmp-live/ playpath=poprock.sdp  swfUrl=http://pt.streema.com/static/flash/player.rtmp.v1.swf?IGOR_RANGEL  pageUrl=http://pt.streema.com/radios/play/13895
