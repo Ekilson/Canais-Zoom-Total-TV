@@ -3,8 +3,8 @@
 
 
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://goo.gl/vrZ3mg?" group-title="INFORMACOES",Lista ZOOM TOTAL TV
-rtmp://46.165.251.66/stream playpath=ZOOM_TOTAL_TV  swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf  pageUrl=http://www.liveflashplayer.net/embedplayer7/IGOR_RANGEL_LISTA2/1/500/400 Conn=S:OK –live
+#EXTINF:-1 tvg-id=""  tvg-logo="http://goo.gl/vrZ3mg?" group-title="INFORMACOES",Lista Feita por Igor Rangel
+rtmp://46.165.251.66/stream playpath=IGOR_RANGEL_LISTA2  swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf  pageUrl=http://www.liveflashplayer.net/embedplayer7/IGOR_RANGEL_LISTA2/1/500/400 Conn=S:OK –live
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/qnNoA0?" group-title="INFORMACOES",Atualizada 02/06/2018
 http://www.tv-msn.com/player/player.swf
@@ -802,6 +802,487 @@ http://23.237.23.7:8080/live/AppzinhoHD/8Uk9eXq8eG/653.m3u8?|User-Agent=iPhone
 
 
 #######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="TV Aberta FULL HD",[COLOR yellow]            > > > TV ABERTA FULL HD< < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",GLOBO NORDESTE
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/8.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SBT.igor" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="TV Aberta FULL HD",SBT
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/7.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV Aberta FULL HD",BAND
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/6.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Esportes FULL HD",[COLOR yellow]            > > > ESPORTES FULL HD < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes FULL HD",SPORTV
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/33.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes FULL HD",ESPN BRASIL
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/29.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes FULL HD",FOX SPORTS
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/339.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes FULL HD",PREMIERE
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/37.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes FULL HD",FOX SPORTS 2
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/338.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes FULL HD",ESPORTE INTERATIVO
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/30.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Filmes FULL HD",[COLOR yellow]            > > > FILMES FULL HD < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="TcPipoca.igor"  tvg-logo="http://goo.gl/5IKysn?" group-title="Filmes FULL HD",TELECINE PIPOCA
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/35.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TcPremium.igor"  tvg-logo="http://goo.gl/XaOWO6?" group-title="Filmes FULL HD",TELECINE PREMIUM
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/38.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TcAction.igor"  tvg-logo="http://goo.gl/P79aKf?" group-title="Filmes FULL HD",TELECINE ACTION
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/25.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TcFun.igor"  tvg-logo="http://goo.gl/Dk6F7h?" group-title="Filmes FULL HD",TELECINE FUN
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/23.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TcTouch.igor"  tvg-logo="http://goo.gl/AfJkib?" group-title="Filmes FULL HD",TELECINE TOUCH
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/24.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="HBO.igor"  tvg-logo="http://goo.gl/N9ccs5?" group-title="Filmes FULL HD",HBO
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/31.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/GY0nyM?" group-title="Filmes FULL HD",SPACE
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/26.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SUniversal.igor" tvg-logo="http://goo.gl/T8ICde?" group-title="Filmes FULL HD",STUDIO
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/12.m3u8?|User-Agent=iPhone
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="ttwrs" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Seriados FULL HD",[COLOR yellow]            > > > SERIADOS FULL HD < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq?" group-title="Seriados FULL HD",FOX
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/27.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 1.igor" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="Seriados FULL HD",FOX PREMIUM 1
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/341.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 2.igor" tvg-logo="https://goo.gl/RUDViH?" group-title="Seriados FULL HD",FOX PREMIUM 2
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/340.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/RnqXjY?" group-title="Seriados FULL HD",FX
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/337.m3u8?|User-Agent=iPhone
+
+#EXTINF:0 tvg-id="FOX LIFE.igor" group-title="Seriados FULL HD" tvg-logo="https://goo.gl/STGSLK",FOX LIFE
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/342.m3u8?|User-Agent=iPhone
+
+#EXTINF:0 tvg-id="SyFy.igor" group-title="Seriados FULL HD" tvg-logo="http://goo.gl/VDyslJ",SYFY
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/9.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/U4atFv?" group-title="Seriados FULL HD",AXN
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/11.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="AMC.igor" tvg-logo="https://goo.gl/TLM39Z?" group-title="Seriados FULL HD",AMC
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/10.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Variedades FULL HD",[COLOR yellow]            > > > VARIEDADES FULL HD < < <[/COLOR]
+http://ignorame
+
+
+
+
+#EXTINF:-1 tvg-id="Multishow.igor"  tvg-logo="http://goo.gl/7LIjII?" group-title="Variedades FULL HD",MULTISHOW
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/19.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="OFF.igor"  tvg-logo="https://goo.gl/B5pwdb?" group-title="Variedades FULL HD",OFF
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/84.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOOD NETWORK.igor"  tvg-logo="https://goo.gl/sJijSQ?" group-title="Variedades FULL HD",FOOD NETWORK
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/15.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Infantil FULL HD",[COLOR yellow]            > > > INFANTIL FULL HD < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="NAT GEO KIDS.igor" tvg-logo="https://goo.gl/B59eLy?" group-title="Infantil FULL HD",NAT GEO KIDS
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/14.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/oF6osu?" group-title="Infantil FULL HD",CARTOON NETWORK
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/20.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://goo.gl/HYutK0?" group-title="Infantil FULL HD",DISNEY JR
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/17.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Kids.igor" tvg-logo="http://goo.gl/eVuVEw?" group-title="Infantil FULL HD",DISCOVERY KIDS
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/34.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nick Jr.igor" tvg-logo="http://goo.gl/gZkEi0?" group-title="Infantil FULL HD",NICK JR
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/32.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="https://goo.gl/kRtYPd?" group-title="Infantil FULL HD",BOOMERANG
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/18.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Documentários FULL HD",[COLOR yellow]> > > DOCUMENTÁRIOS FULL HD < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="Documentários FULL HD",ANIMAL PLANET
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/28.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nat Geo Wild.igor" tvg-logo="http://goo.gl/t0czad?"  group-title="Documentários FULL HD",NAT GEO WILD
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/335.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/5rr2ab?" group-title="Documentários FULL HD",THE HISTORY CHANNEL
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/39.m3u8?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="National Geo.igor" tvg-logo="http://goo.gl/INXrU0?" group-title="Documentários FULL HD",NAT GEO
+http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/kZxKSuupESgBqlqQsS6a/336.m3u8?|User-Agent=iPhone
+
+
+
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="TV Aberta SD FULL HD 2",[COLOR yellow]            > > > TV ABERTA FULL HD 2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta SD FULL HD 2",GLOBO NORDESTE
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7871.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Bandeirantes.igor"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV Aberta SD FULL HD 2",BAND
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7873.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Record.igor"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="TV Aberta SD FULL HD 2",RECORD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/3936.ts?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Esportes FULL HD 2",[COLOR yellow]            > > > ESPORTES FULL HD 2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+#EXTINF:-1 tvg-id="SporTV.igor"  tvg-logo="http://goo.gl/B5d4fq?SporTV.png?" group-title="Esportes FULL HD 2",SPORTV
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7699.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="ESPN Brasil.igor"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="Esportes FULL HD 2",ESPN BRASIL
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7882.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Fox Sports.igor"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="Esportes FULL HD 2",FOX SPORTS
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7703.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Premiere.igor"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="Esportes FULL HD 2",PREMIERE
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7700.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="foxSportes2.igor"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="Esportes FULL HD 2",FOX SPORTS 2
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8680.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="E Interativo.igor" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="Esportes FULL HD 2",ESPORTE INTERATIVO
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7881.ts?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Filmes FULL HD 2",[COLOR yellow]            > > > FILMES FULL HD 2 < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="TcPipoca.igor"  tvg-logo="http://goo.gl/5IKysn?" group-title="Filmes FULL HD 2",TELECINE PIPOCA
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7878.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TcPremium.igor"  tvg-logo="http://goo.gl/XaOWO6?" group-title="Filmes FULL HD 2",TELECINE PREMIUM
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7694.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TcAction.igor"  tvg-logo="http://goo.gl/P79aKf?" group-title="Filmes FULL HD 2",TELECINE ACTION
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7885.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="TcTouch.igor"  tvg-logo="http://goo.gl/AfJkib?" group-title="Filmes FULL HD 2",TELECINE TOUCH
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7886.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="HBO.igor"  tvg-logo="http://goo.gl/N9ccs5?" group-title="Filmes FULL HD 2",HBO
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7704.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Space.igor"  tvg-logo="http://goo.gl/GY0nyM?" group-title="Filmes FULL HD 2",SPACE
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7884.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="SUniversal.igor" tvg-logo="http://goo.gl/T8ICde?" group-title="Filmes FULL HD 2",STUDIO
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7896.ts?|User-Agent=iPhone
+
+
+
+###################################################################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 tvg-id="ttwrs" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Seriados FULL HD 2",[COLOR yellow]            > > > SERIADOS FULL HD 2 < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="Fox.igor" tvg-logo="http://goo.gl/13gfQq?" group-title="Seriados FULL HD 2",FOX
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7701.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 1.igor" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="Seriados FULL HD 2",FOX PREMIUM 1
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8678.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 2.igor" tvg-logo="https://goo.gl/RUDViH?" group-title="Seriados FULL HD 2",FOX PREMIUM 2
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8679.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="FX.igor" tvg-logo="http://goo.gl/RnqXjY?" group-title="Seriados FULL HD 2",FX
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8681.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="UniversalCH.igor" tvg-logo="http://goo.gl/K8V00r?" group-title="Seriados FULL HD 2",UNIVERSAL CHANNEL
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7896.ts?|User-Agent=iPhone
+
+#EXTINF:0 tvg-id="FOX LIFE.igor" group-title="Seriados FULL HD 2" tvg-logo="https://goo.gl/STGSLK",FOX LIFE
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8677.ts?|User-Agent=iPhone
+
+#EXTINF:0 tvg-id="SyFy.igor" group-title="Seriados FULL HD 2" tvg-logo="http://goo.gl/VDyslJ",SYFY
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7899.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="AXN.igor" tvg-logo="http://goo.gl/U4atFv?" group-title="Seriados FULL HD 2",AXN
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7897.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="AMC.igor" tvg-logo="https://goo.gl/TLM39Z?" group-title="Seriados FULL HD 2",AMC
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7898.ts?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Variedades FULL HD 2",[COLOR yellow]            > > > VARIEDADES FULL HD 2 < < <[/COLOR]
+http://ignorame
+
+
+
+#EXTINF:-1 tvg-id="bbb.igor"  tvg-logo="http://www.gshowbbb2018.com/wp-content/uploads/2017/04/bigWelcomePic_4-300x169.png?" group-title="Variedades",BBB 18
+
+
+#EXTINF:-1 tvg-id="Multishow.igor"  tvg-logo="http://goo.gl/7LIjII?" group-title="Variedades FULL HD 2",MULTISHOW
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7889.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="OFF.igor"  tvg-logo="https://goo.gl/B5pwdb?" group-title="Variedades FULL HD 2",OFF
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7895.ts?|User-Agent=iPhone
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Infantil FULL HD 2",[COLOR yellow]            > > > INFANTIL FULL HD 2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+#EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://goo.gl/HYutK0?" group-title="Infantil FULL HD 2",DISNEY JR
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7891.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Kids.igor" tvg-logo="http://goo.gl/eVuVEw?" group-title="Infantil FULL HD 2",DISCOVERY KIDS
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7879.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nick Jr.igor" tvg-logo="http://goo.gl/gZkEi0?" group-title="Infantil FULL HD 2",NICK JR
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7880.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="https://goo.gl/kRtYPd?" group-title="Infantil FULL HD 2",BOOMERANG
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7890.ts?|User-Agent=iPhone
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/vrZ3mg?" group-title="Documentários FULL HD 2",[COLOR yellow]> > > DOCUMENTÁRIOS FULL HD 2 < < <[/COLOR]
+http://ignorame
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animal Planet.igor"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="Documentários FULL HD 2",ANIMAL PLANET
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7883.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery.igor" tvg-logo="http://goo.gl/5ObfPV?"  group-title="Documentários FULL HD 2",DISCOVERY CHANNEL
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7688.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Nat Geo Wild.igor" tvg-logo="http://goo.gl/t0czad?"  group-title="Documentários FULL HD 2",NAT GEO WILD
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/8682.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="The History.igor" tvg-logo="http://goo.gl/5rr2ab?" group-title="Documentários FULL HD 2",THE HISTORY CHANNEL
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7702.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="National Geo.igor" tvg-logo="http://goo.gl/INXrU0?" group-title="Documentários FULL HD 2",NAT GEO
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7887.ts?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-id="Discovery Turbo.igor" tvg-logo="http://goo.gl/B8yVJo?"  group-title="Documentários FULL HD 2",DISCOVERY TURBO
+http://br1.e-tv.xyz:8081/live/like2freem@/nuz7l5BurI/7697.ts?|User-Agent=iPhone
+
+
+
+
+
+
+
+#######################################################################################################################################################################
+
+
+
 
 
 
